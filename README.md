@@ -59,7 +59,7 @@ In osTicket updating tickets status is essential for maintaining clear communica
 </p>
 <br />
 
-
+![360_F_267282687_zFyIxL9ZUGrOss3OOgFzFIXWdHUeEsG3](https://github.com/techwithterrence/Configuring-On-premises-Active-Directory-within-Azure-VMs/assets/174138674/556faa08-ff85-4d2c-b328-a2c04dcbb3a0)
 
 
 
